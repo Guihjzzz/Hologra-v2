@@ -1,7 +1,27 @@
-
 import { LinkItem } from "@/hooks/useLinks";
 
 export const medievalHousesData: LinkItem[] = [
+  {
+    id: 'grande-casa-medieval',
+    url: 'https://terabox.app/s/1gR14haxsxTt_UvDswRoPaQ',
+    mcstructureUrl: 'https://terabox.app/s/1352Qn9ndoVlYWvP0T8eUzQ',
+    category: 'CASAS',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/medieval%20big%20house.png?raw=true',
+    translations: {
+      pt: {
+        title: 'GRANDE CASA MEDIEVAL',
+        description: 'Casa medieval de grande porte'
+      },
+      en: {
+        title: 'BIG MEDIEVAL HOUSE',
+        description: 'Large medieval house'
+      },
+      es: {
+        title: 'GRAN CASA MEDIEVAL',
+        description: 'Casa medieval de gran tamaño'
+      }
+    }
+  },
   {
     id: 'sala-de-baus-gigante',
     url: 'https://terabox.app/s/1I-IjS2e9p3BJUMeess9CnQ',
