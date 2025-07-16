@@ -1,5 +1,3 @@
-
-
 import { LinkItem } from "@/hooks/useLinks";
 
 export const decorationsData: LinkItem[] = [
@@ -1178,6 +1176,47 @@ export const decorationsData: LinkItem[] = [
         description: 'Dragón decorativo épico'
       }
     }
+  },
+  {
+    id: '129',
+    url: 'https://terabox.app/s/1P66afI1e5YbyrgpcfrfKhg',
+    mcstructureUrl: 'https://terabox.app/s/1tFv2bawrSwX0MA8TFHVRQQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Windmill%20Wheat%20Farm.png?raw=true',
+    translations: {
+      pt: {
+        title: 'MOINHO DE VENTO FARM DE TRIGO',
+        description: 'Moinho de vento com farm de trigo integrada'
+      },
+      en: {
+        title: 'WINDMILL WHEAT FARM',
+        description: 'Windmill with integrated wheat farm'
+      },
+      es: {
+        title: 'MOLINO DE VIENTO GRANJA TRIGO',
+        description: 'Molino de viento con granja de trigo integrada'
+      }
+    }
+  },
+  {
+    id: '130',
+    url: 'https://terabox.app/s/1nLfV3Qu_SCpPBwzV6oGW9A',
+    mcstructureUrl: 'https://terabox.app/s/1dg6mzOiLvhfOyzpVXoMtSQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Farol.png?raw=true',
+    translations: {
+      pt: {
+        title: 'FAROL',
+        description: 'Farol decorativo para orientação'
+      },
+      en: {
+        title: 'LIGHTHOUSE',
+        description: 'Decorative lighthouse for guidance'
+      },
+      es: {
+        title: 'FARO',
+        description: 'Faro decorativo para orientación'
+      }
+    }
   }
 ];
-
