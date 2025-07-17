@@ -1218,5 +1218,47 @@ export const decorationsData: LinkItem[] = [
         description: 'Faro decorativo para orientación'
       }
     }
+  },
+  {
+    id: '131',
+    url: 'https://terabox.app/s/1bQv1Re3AduKBJHG9pnFwsg',
+    mcstructureUrl: 'https://terabox.app/s/1F_jHi7ljlbQXkEate6WGyg',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/a%20nether%20portal%20sword.png?raw=true',
+    translations: {
+      pt: {
+        title: 'PORTAL DE ESPADA',
+        description: 'Portal decorativo em formato de espada'
+      },
+      en: {
+        title: 'SWORD PORTAL',
+        description: 'Decorative sword-shaped portal'
+      },
+      es: {
+        title: 'PORTAL DE ESPADA',
+        description: 'Portal decorativo en forma de espada'
+      }
+    }
+  },
+  {
+    id: '132',
+    url: 'https://terabox.app/s/1ysyjS1-K1KzohAPbiIjMhQ',
+    mcstructureUrl: 'https://terabox.app/s/1480Y_ZhlmCR0m91kWy-t9Q',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/portal%20embedded.png?raw=true',
+    translations: {
+      pt: {
+        title: 'PORTAL DE ESPADA E DRAGÃO',
+        description: 'Portal decorativo com espada e dragão'
+      },
+      en: {
+        title: 'SWORD AND DRAGON PORTAL',
+        description: 'Decorative portal with sword and dragon'
+      },
+      es: {
+        title: 'PORTAL DE ESPADA Y DRAGÓN',
+        description: 'Portal decorativo con espada y dragón'
+      }
+    }
   }
 ];
