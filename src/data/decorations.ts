@@ -1260,5 +1260,89 @@ export const decorationsData: LinkItem[] = [
         description: 'Portal decorativo con espada y dragón'
       }
     }
+  },
+  {
+    id: '133',
+    url: 'https://terabox.app/s/1psx0dogz-pgg8ggeVWTZfw',
+    mcstructureUrl: 'https://terabox.app/s/1rRskKV9qh6AHWMgNY1Jqiw',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/aesthetic%20stable.png?raw=true',
+    translations: {
+      pt: {
+        title: 'ESTÁBULO',
+        description: 'Estábulo decorativo para animais'
+      },
+      en: {
+        title: 'STABLE',
+        description: 'Decorative stable for animals'
+      },
+      es: {
+        title: 'ESTABLO',
+        description: 'Establo decorativo para animales'
+      }
+    }
+  },
+  {
+    id: '134',
+    url: 'https://terabox.app/s/15FUZeY7VOwdKymcPcdMq6w',
+    mcstructureUrl: 'https://terabox.app/s/10gCAr1A-GvFQVNwRErODlg',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Hot%20Air%20Balloon.png?raw=true',
+    translations: {
+      pt: {
+        title: 'BALÃO DE AR QUENTE',
+        description: 'Balão de ar quente decorativo'
+      },
+      en: {
+        title: 'HOT AIR BALLOON',
+        description: 'Decorative hot air balloon'
+      },
+      es: {
+        title: 'GLOBO AEROSTÁTICO',
+        description: 'Globo aerostático decorativo'
+      }
+    }
+  },
+  {
+    id: '135',
+    url: 'https://terabox.app/s/1H30Siknz-dq3Y3pa00W_2Q',
+    mcstructureUrl: 'https://terabox.app/s/1EqW412g9TT5HOAeO-htVYw',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/warden%20statue.png?raw=true',
+    translations: {
+      pt: {
+        title: 'ESTÁTUA WARDEN',
+        description: 'Estátua decorativa do Warden'
+      },
+      en: {
+        title: 'WARDEN STATUE',
+        description: 'Decorative Warden statue'
+      },
+      es: {
+        title: 'ESTATUA WARDEN',
+        description: 'Estatua decorativa del Warden'
+      }
+    }
+  },
+  {
+    id: '136',
+    url: 'https://terabox.app/s/1a3kkCkvKRoJr6y-kaVV0XA',
+    mcstructureUrl: 'https://terabox.app/s/1yowlWQZqIDba5J81Pmuw3g',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/wither%20skeleton.png?raw=true',
+    translations: {
+      pt: {
+        title: 'WITHER SKELETON',
+        description: 'Esqueleto Wither decorativo'
+      },
+      en: {
+        title: 'WITHER SKELETON',
+        description: 'Decorative Wither Skeleton'
+      },
+      es: {
+        title: 'WITHER SKELETON',
+        description: 'Esqueleto Wither decorativo'
+      }
+    }
   }
 ];
