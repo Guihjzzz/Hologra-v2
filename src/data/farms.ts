@@ -567,5 +567,26 @@ export const farmsData: LinkItem[] = [
         description: 'Granja automática de golem decorada'
       }
     }
+  },
+  {
+    id: 'farm-ferro-topiyyy-124',
+    url: 'https://terabox.app/s/18lt2Vc3qudXmluih35nrIw',
+    mcstructureUrl: 'https://terabox.app/s/1QWzG-ilxnxFeYbZBKn3rmQ',
+    category: 'FAZENDAS',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/%C2%A74IronFarmTopiyyy.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Farm de Ferro Topiyyy',
+        description: 'Farm automática de ferro'
+      },
+      en: {
+        title: 'Iron Farm Topiyyy',
+        description: 'Automatic iron farm'
+      },
+      es: {
+        title: 'Granja de Hierro Topiyyy',
+        description: 'Granja automática de hierro'
+      }
+    }
   }
 ];
