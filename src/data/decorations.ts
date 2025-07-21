@@ -1344,5 +1344,173 @@ export const decorationsData: LinkItem[] = [
         description: 'Esqueleto Wither decorativo'
       }
     }
+  },
+  {
+    id: '137',
+    url: 'https://terabox.app/s/1QBR_2cAFsSEmJuXVi59apA',
+    mcstructureUrl: 'https://terabox.app/s/1k5wftQsEUCOxLrN5vQW5ug',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Assassin%20Creed.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Assassin Creed',
+        description: 'Decoração Assassin Creed'
+      },
+      en: {
+        title: 'Assassin Creed',
+        description: 'Assassin Creed decoration'
+      },
+      es: {
+        title: 'Assassin Creed',
+        description: 'Decoración Assassin Creed'
+      }
+    }
+  },
+  {
+    id: '138',
+    url: 'https://terabox.app/s/1CCJNXKg4iFLxFM4Jod6SZg',
+    mcstructureUrl: 'https://terabox.app/s/1lVJ2LbLsbD6-jMd6ID6TnQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Charizard.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Charizard',
+        description: 'Decoração Charizard'
+      },
+      en: {
+        title: 'Charizard',
+        description: 'Charizard decoration'
+      },
+      es: {
+        title: 'Charizard',
+        description: 'Decoración Charizard'
+      }
+    }
+  },
+  {
+    id: '139',
+    url: 'https://terabox.app/s/15zZ7muDMUzqvnNPG8BAhlQ',
+    mcstructureUrl: 'https://terabox.app/s/1oTuOJSpmCSzrhmuxKCf8zg',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Deadpool.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Deadpool',
+        description: 'Decoração Deadpool'
+      },
+      en: {
+        title: 'Deadpool',
+        description: 'Deadpool decoration'
+      },
+      es: {
+        title: 'Deadpool',
+        description: 'Decoración Deadpool'
+      }
+    }
+  },
+  {
+    id: '140',
+    url: 'https://terabox.app/s/1yUU7T1PLnC1Ek8jCsndUEA',
+    mcstructureUrl: 'https://terabox.app/s/1ikKT7xfHbvb5FumbnIVcFA',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Goku%20Art.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Goku Art',
+        description: 'Decoração Goku Art'
+      },
+      en: {
+        title: 'Goku Art',
+        description: 'Goku Art decoration'
+      },
+      es: {
+        title: 'Goku Art',
+        description: 'Decoración Goku Art'
+      }
+    }
+  },
+  {
+    id: '141',
+    url: 'https://terabox.app/s/1nuGrZWMoxhJny88yr-Rxng',
+    mcstructureUrl: 'https://terabox.app/s/1Pfch6yXiGHTHQUFiHi4Grg',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Papyrus%20Battle%20Form.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Papyrus Battle Form',
+        description: 'Decoração Papyrus Battle Form'
+      },
+      en: {
+        title: 'Papyrus Battle Form',
+        description: 'Papyrus Battle Form decoration'
+      },
+      es: {
+        title: 'Papyrus Battle Form',
+        description: 'Decoración Papyrus Battle Form'
+      }
+    }
+  },
+  {
+    id: '142',
+    url: 'https://terabox.app/s/1EyqDJZd36PX7MCm2qyZagQ',
+    mcstructureUrl: 'https://terabox.app/s/13VGU0yIj32VuTVADlSSfUQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Pikachu.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Pikachu',
+        description: 'Decoração Pikachu'
+      },
+      en: {
+        title: 'Pikachu',
+        description: 'Pikachu decoration'
+      },
+      es: {
+        title: 'Pikachu',
+        description: 'Decoración Pikachu'
+      }
+    }
+  },
+  {
+    id: '143',
+    url: 'https://terabox.app/s/15gPSyVLqT8xSQMfUvdwC9g',
+    mcstructureUrl: 'https://terabox.app/s/1ylBjxM0Frmfjo5wMmw7QCQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Sans%20the%20Skeleton.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Sans the Skeleton',
+        description: 'Decoração Sans the Skeleton'
+      },
+      en: {
+        title: 'Sans the Skeleton',
+        description: 'Sans the Skeleton decoration'
+      },
+      es: {
+        title: 'Sans the Skeleton',
+        description: 'Decoración Sans the Skeleton'
+      }
+    }
+  },
+  {
+    id: '144',
+    url: 'https://terabox.app/s/1jZHlMy05E7fzcHZnHj60zQ',
+    mcstructureUrl: 'https://terabox.app/s/1DzNO3-wG-JBCwHyY9TrNhw',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Teemo.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Teemo',
+        description: 'Decoração Teemo'
+      },
+      en: {
+        title: 'Teemo',
+        description: 'Teemo decoration'
+      },
+      es: {
+        title: 'Teemo',
+        description: 'Decoración Teemo'
+      }
+    }
   }
 ];
