@@ -1512,5 +1512,47 @@ export const decorationsData: LinkItem[] = [
         description: 'Decoración Teemo'
       }
     }
+  },
+  {
+    id: '145',
+    url: 'https://terabox.app/s/1U_059giavZC6s9ai8lgnYA',
+    mcstructureUrl: 'https://terabox.app/s/1bovRNf4Tz72IDad9zTCIxQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Barco%201.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Barco 1',
+        description: 'Decoração Barco 1'
+      },
+      en: {
+        title: 'Boat 1',
+        description: 'Boat 1 decoration'
+      },
+      es: {
+        title: 'Barco 1',
+        description: 'Decoración Barco 1'
+      }
+    }
+  },
+  {
+    id: '146',
+    url: 'https://terabox.app/s/1h3gqWCzfxLBstY3E8R2ggg',
+    mcstructureUrl: 'https://terabox.app/s/1YjYvp1GAfmF4kQGcIiVKjw',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/barco%202.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Barco 2',
+        description: 'Decoração Barco 2'
+      },
+      en: {
+        title: 'Boat 2',
+        description: 'Boat 2 decoration'
+      },
+      es: {
+        title: 'Barco 2',
+        description: 'Decoración Barco 2'
+      }
+    }
   }
 ];
