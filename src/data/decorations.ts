@@ -1554,5 +1554,47 @@ export const decorationsData: LinkItem[] = [
         description: 'Decoración Barco 2'
       }
     }
+  },
+  {
+    id: '147',
+    url: 'https://terabox.app/s/1DGxjNktRkoZRHDO8nzeJIQ',
+    mcstructureUrl: 'https://terabox.app/s/1na5U_7V5IZPO4tiLQRqpQQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/An%C3%BAbis.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Anúbis',
+        description: 'Decoração Anúbis'
+      },
+      en: {
+        title: 'Anubis',
+        description: 'Anubis decoration'
+      },
+      es: {
+        title: 'Anubis',
+        description: 'Decoración Anubis'
+      }
+    }
+  },
+  {
+    id: '148',
+    url: 'https://terabox.app/s/1PP4BfQfNmbuEiwbkk4wuCw',
+    mcstructureUrl: 'https://terabox.app/s/12PTocBgFREpHhdMNnjTXrw',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Estatua%20An%C3%BAbis.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Estatua Anúbis',
+        description: 'Decoração Estatua Anúbis'
+      },
+      en: {
+        title: 'Anubis Statue',
+        description: 'Anubis Statue decoration'
+      },
+      es: {
+        title: 'Estatua Anubis',
+        description: 'Decoración Estatua Anubis'
+      }
+    }
   }
 ];
