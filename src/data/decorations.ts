@@ -1596,5 +1596,26 @@ export const decorationsData: LinkItem[] = [
         description: 'Decoración Estatua Anubis'
       }
     }
+  },
+  {
+    id: '149',
+    url: 'https://terabox.app/s/1-SoLoc3vfcdRPTNVibTh9g',
+    mcstructureUrl: 'https://terabox.app/s/1VjmPS7nSAwywlJBFcoAgIQ',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Serpente.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Serpente',
+        description: 'Decoração Serpente'
+      },
+      en: {
+        title: 'Serpent',
+        description: 'Serpent decoration'
+      },
+      es: {
+        title: 'Serpiente',
+        description: 'Decoración Serpiente'
+      }
+    }
   }
 ];
