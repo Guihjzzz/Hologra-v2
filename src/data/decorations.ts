@@ -1617,5 +1617,26 @@ export const decorationsData: LinkItem[] = [
         description: 'Decoración Serpiente'
       }
     }
+  },
+  {
+    id: '150',
+    url: 'https://terabox.app/s/1hWclci8dGey-WQ5yAe3tAw',
+    mcstructureUrl: 'https://terabox.app/s/1__4tXtz77sBVNoDTl5i5bw',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/Gato.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Gato',
+        description: 'Decoração Gato'
+      },
+      en: {
+        title: 'Cat',
+        description: 'Cat decoration'
+      },
+      es: {
+        title: 'Gato',
+        description: 'Decoración Gato'
+      }
+    }
   }
 ];
