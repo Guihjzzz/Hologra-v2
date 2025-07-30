@@ -1638,5 +1638,131 @@ export const decorationsData: LinkItem[] = [
         description: 'Decoración Gato'
       }
     }
+  },
+  {
+    id: '151',
+    url: 'https://terabox.app/s/11WulATAFXgiE182_Q3jfxA',
+    mcstructureUrl: 'https://terabox.app/s/1lZ6un296NdLHMxbpuuO2mA',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/cappuccino%20assassino.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Cappuccino Assassino',
+        description: 'Decoração Cappuccino Assassino'
+      },
+      en: {
+        title: 'Assassin Cappuccino',
+        description: 'Assassin Cappuccino decoration'
+      },
+      es: {
+        title: 'Cappuccino Asesino',
+        description: 'Decoración Cappuccino Asesino'
+      }
+    }
+  },
+  {
+    id: '152',
+    url: 'https://terabox.app/s/1-35ReX7NhDd80qW6dCotfw',
+    mcstructureUrl: 'https://terabox.app/s/14jOBNUKypkkWIpW_e-RLrg',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/herobrine.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Herobrine',
+        description: 'Decoração Herobrine'
+      },
+      en: {
+        title: 'Herobrine',
+        description: 'Herobrine decoration'
+      },
+      es: {
+        title: 'Herobrine',
+        description: 'Decoración Herobrine'
+      }
+    }
+  },
+  {
+    id: '153',
+    url: 'https://terabox.app/s/1Lfbnbe_K81YxotVcA5ekAQ',
+    mcstructureUrl: 'https://terabox.app/s/11POu3HR0og5xHs5tEXE8YA',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/miku.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Miku',
+        description: 'Decoração Miku'
+      },
+      en: {
+        title: 'Miku',
+        description: 'Miku decoration'
+      },
+      es: {
+        title: 'Miku',
+        description: 'Decoración Miku'
+      }
+    }
+  },
+  {
+    id: '154',
+    url: 'https://terabox.app/s/1MezuDMfQ386qd04w4tZKxg',
+    mcstructureUrl: 'https://terabox.app/s/1_kC-ubGkQWn1YFSF_T1KDg',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/santuario%20do%20ghast%20feliz%20.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Santuário do Ghast Feliz',
+        description: 'Decoração Santuário do Ghast Feliz'
+      },
+      en: {
+        title: 'Happy Ghast Sanctuary',
+        description: 'Happy Ghast Sanctuary decoration'
+      },
+      es: {
+        title: 'Santuario del Ghast Feliz',
+        description: 'Decoración Santuario del Ghast Feliz'
+      }
+    }
+  },
+  {
+    id: '155',
+    url: 'https://terabox.app/s/11vbeSutcmmhP6jsQQZ7qpg',
+    mcstructureUrl: 'https://terabox.app/s/1x4Dj4h25BanRzHjeFy-VlA',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/tralalero%20tralala.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Tralalero Tralala',
+        description: 'Decoração Tralalero Tralala'
+      },
+      en: {
+        title: 'Tralalero Tralala',
+        description: 'Tralalero Tralala decoration'
+      },
+      es: {
+        title: 'Tralalero Tralala',
+        description: 'Decoración Tralalero Tralala'
+      }
+    }
+  },
+  {
+    id: '156',
+    url: 'https://terabox.app/s/1olxcj9D-TaZ7QMX_qrWHZw',
+    mcstructureUrl: 'https://terabox.app/s/1IzzUI1b_zucD0Cxmr4B3oA',
+    category: 'DECORAÇÕES',
+    imageUrl: 'https://github.com/Guihjzzz/fotos/blob/main/tung%20tung%20sahur.png?raw=true',
+    translations: {
+      pt: {
+        title: 'Tung Tung Sahur',
+        description: 'Decoração Tung Tung Sahur'
+      },
+      en: {
+        title: 'Tung Tung Sahur',
+        description: 'Tung Tung Sahur decoration'
+      },
+      es: {
+        title: 'Tung Tung Sahur',
+        description: 'Decoración Tung Tung Sahur'
+      }
+    }
   }
 ];
